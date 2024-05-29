@@ -1,0 +1,9 @@
+{
+	"name": "acgminimumdbfactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2862492b-668b-4068-a78a-d65f3706e7a3",
+		"tenantId": "84f1e4ea-8554-43e1-8709-f0b8589ea118"
+	}
+}
